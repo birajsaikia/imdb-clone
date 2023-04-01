@@ -24,7 +24,7 @@
 
 fava.addEventListener('click',function(){
   showFavourites.style.opacity="1";
-  showFavourites.style.width="30%";
+  showFavourites.style.width="33%";
   favMoviesContainer.style.width="100%";
 });
   function showEmptyText() {
