@@ -242,7 +242,7 @@ a {
 }
 #hide{
   color: rgb(4, 101, 10);
-  margin: 5px 10px;
+  margin: -20px 10px 10px;
 }
 .fav-movie-name {
   text-decoration: none;
