@@ -1,14 +1,14 @@
 # IMDB-clone app
 
-![](images/home_page.png)
-![](images/movie_page.png)
+![](jeremy-bishop-G9i_plbfDgk-unsplash.jpg)
+![](%E2%80%94Pngtree%E2%80%94ninja%20logo%20esport_5954177.png)
 
 
 A mini IMDB clone app in which we can search movies based on OMDB API, with search suggestions. 
 Clicking on a particular movie card opens a new movie page for more info.
 On clicking on the favourite button, we can add a movie to the favourite list which is using local storage to store movies.  
 
-### Hosted link: [IMDB-clone](https://rahul4019.github.io/IMDB-clone/)
+### Hosted link: [IMDB-clone](https://birajsaikia.github.io/imdb-clone/)
 
 ## Tools used:
 * HTML
