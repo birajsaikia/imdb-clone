@@ -39,13 +39,7 @@ fava.addEventListener('click',function(){
     showFavourites.style.width="0%";
   });
 
-  function showEmptyText() {
-    if (favMoviesContainer.innerHTML == "") {
-      emptyFavText.style.display = "block";
-    } else {
-      emptyFavText.style.display = "none";
-    }
-  }
+
 
   // Event listner on search
   searchKeyword.addEventListener("keyup", function () {
